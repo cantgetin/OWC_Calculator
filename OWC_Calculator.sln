@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OWC_Calculator", "OWC_Calculator.csproj", "{B780BAE2-68EB-4172-A244-60D05F43E176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B780BAE2-68EB-4172-A244-60D05F43E176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B780BAE2-68EB-4172-A244-60D05F43E176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B780BAE2-68EB-4172-A244-60D05F43E176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B780BAE2-68EB-4172-A244-60D05F43E176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059EA24C-ECFF-484B-AED1-2684ACFB6F10}
+	EndGlobalSection
+EndGlobal
