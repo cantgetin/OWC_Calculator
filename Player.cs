@@ -12,10 +12,15 @@ namespace OWC_Calculator
         public int HR { get; set; }
         public int DT { get; set; }
         public int FM { get; set; }
-        public Player(string n, int nm, int hd, int hr, int dt, int fm)
+
+        public Player(string name, int nm, int hd, int hr, int dt, int fm)
         {
-            Name = n;
-            NM = nm; HD = hd; HR = hr; DT = dt; FM = fm;
+            Name = name;
+            NM = nm;
+            HD = hd;
+            HR = hr;
+            DT = dt;
+            FM = fm;
         }
     }
 }
